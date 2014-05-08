@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<application xmlns="http://ns.adobe.com/air/application/3.1">
+  <id>OpenExhibits</id>
+  <versionNumber>1.0</versionNumber>
+  <filename>Open Exhibits</filename>
+  <name>Open Exhibits</name>
+  <initialWindow>
+    <title>Open Exhibits</title>
+    <content>OpenExhibits.swf</content>
+    <systemChrome>standard</systemChrome>
+    <transparent>false</transparent>
+    <minimizable>true</minimizable>
+    <maximizable>true</maximizable>
+    <resizable>true</resizable>
+    <renderMode>direct</renderMode>
+  </initialWindow>
+  <icon>
+    <image16x16>icons/16.png</image16x16>
+    <image32x32>icons/32.png</image32x32>
+    <image36x36>icons/36.png</image36x36>
+    <image48x48>icons/48.png</image48x48>
+    <image72x72>icons/72.png</image72x72>
+    <image114x114>icons/114.png</image114x114>
+    <image128x128>icons/128.png</image128x128>
+  </icon>
+  <copyright>Ideum</copyright>
+  <installFolder>Open Exhibits</installFolder>
+  <supportedProfiles>desktop extendedDesktop</supportedProfiles>
+  <fileTypes>
+    <fileType>
+      <name>creativeML</name>
+      <extension>cml</extension>
+      <description>Creative Markup Language</description>
+      <contentType>application/xml</contentType>
+      <icon>
+        <image16x16>icons/16.png</image16x16>
+        <image32x32>icons/32.png</image32x32>
+        <image36x36>icons/36.png</image36x36>
+        <image48x48>icons/48.png</image48x48>
+        <image128x128>icons/128.png</image128x128>
+      </icon>
+    </fileType>
+  </fileTypes>
+</application>
